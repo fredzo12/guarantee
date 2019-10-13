@@ -119,7 +119,7 @@
                         <a class="page-scroll" href="visa.php">Visa Application</a>
                     </li>
                     <li>
-                        <a class="page-scroll" href="job.php">Job Placement</a>
+                        <a class="page-scroll" href="job.php">Job </a>
                     </li>
                     <li>
                         <a class="page-scroll" href="study.php">Study Abroad services</a>
