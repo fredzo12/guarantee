@@ -431,7 +431,7 @@
                                 </div>
                                 <div class="media-body">
                                     <h4 class="media-heading">Websites and Graphic Design</h4>
-                                    <p>You are looking for better a great design, Guarantee international limited is the solution</p>
+                                    <p>You are looking for a better and great designs, Guarantee international limited is the solution</p>
                                 </div>
                             </div>
                         </div>
