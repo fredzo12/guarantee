@@ -156,7 +156,7 @@
                         <div class="slider-content">
                             <div class="col-md-12 text-center" style="margin-top:10%;">
                                 <h1 class="animated1">
-                                  <span>We bring you <strong> Solution</strong></span>
+                                  <span>We bring you <strong> Solutions</strong></span>
                                 </h1>
                             </div>
                         </div>
@@ -389,7 +389,7 @@
                                 </div>
                                 <div class="media-body">
                                     <h4 class="media-heading">Study Abroad</h4>
-                                    <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu</p>
+                                    <p>Guarantee International Ltd is an authorized agent for a variety of schools</p>
                                 </div>
                             </div>
                         </div>
@@ -403,7 +403,7 @@
                                 </div>
                                 <div class="media-body">
                                     <h4 class="media-heading">Visa Application</h4>
-                                    <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu</p>
+                                    <p>Guarantee International enjoys a high success rate of visa approvals</p>
                                 </div>
                             </div>
                         </div>
@@ -417,7 +417,7 @@
                                 </div>
                                 <div class="media-body">
                                     <h4 class="media-heading">Travel and Tour</h4>
-                                    <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu</p>
+                                    <p>Travelling is the only thing you buy that makes you richer, travel with us!.</p>
                                 </div>
                             </div>
                         </div>
@@ -431,7 +431,7 @@
                                 </div>
                                 <div class="media-body">
                                     <h4 class="media-heading">Websites and Graphic Design</h4>
-                                    <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu</p>
+                                    <p>You are looking for better a great design, Guarantee international limited is the solution</p>
                                 </div>
                             </div>
                         </div>
@@ -445,7 +445,7 @@
                                 </div>
                                 <div class="media-body">
                                     <h4 class="media-heading">Job Placement</h4>
-                                    <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu</p>
+                                    <p>If you are searching for work, Guarantee International is the right place to for you!</p>
                                 </div>
                             </div>
                         </div>
@@ -459,7 +459,7 @@
                                 </div>
                                 <div class="media-body">
                                     <h4 class="media-heading">Web and Mobile Apps</h4>
-                                    <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu</p>
+                                    <p>With Guarantee international Limited we bring you better solutions</p>
                                 </div>
                             </div>
                         </div>

@@ -165,7 +165,7 @@
             <div class="row">
                 <div class="col-lg-12">
                     <div class="section-title text-center">
-                        <h3>Contact us we help you for the application</h3>
+                        <h3>Contact us for your admission/schorlaship and visa processes</h3>
                         <p></p>
                     </div>
                 </div>

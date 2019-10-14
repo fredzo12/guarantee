@@ -160,7 +160,7 @@
             <div class="row">
               <div class="col-md-6" style="height: 30%; ">
                <div class="mu-about-us-left">     
-                <img src="images/about.jpeg" alt="img">           
+                <img src="images/under2.jpg" alt="img">           
                 </div>
               </div>
               <div class="col-md-6">
