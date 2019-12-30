@@ -210,7 +210,6 @@
                         <ul>
                             <li><strong>E-mail :</strong> internationalguarantee@gmail.com</li>
                             <li><strong>Phone :</strong> (+250)785282655</li>
-                            <li><strong>Phone :</strong> (+250)782338186</li>
                             <li><strong>Website :</strong> internationalguarantee.com</li>
                         </ul>
                     </div>
